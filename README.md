@@ -68,8 +68,8 @@ To model and visualize a simulated supply chain for a pharmaceutical company usi
 ## 👤 Author
 
 **Suhas Reddy Challa**  
-📫 [GitHub Profile](https://github.com/suhasreddychalla)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/suhasreddychalla)
+📫Github [[GitHub Profile](https://github.com/suhasreddychalla)  ](https://github.com/suhasreddychalla)
+🔗LinkedIn [(www.linkedin.com/in/suhas-challa-799173184)](https://www.linkedin.com/in/suhas-challa-799173184/)
 
 ---
 
